@@ -1,0 +1,7 @@
+1) You need to create a ssh key, there is a tutorial : https://help.github.com/articles/generating-ssh-keys/#platform-linux
+(You can change your OS if you want)
+2)Then, on linux, you can find your ssh public key by "cat ~/.ssh/id_rsa.pub" and copy paste this on Github/Settings/SSH Key
+3) Now you can clone and commit !
+
+
+Ceci est un test
